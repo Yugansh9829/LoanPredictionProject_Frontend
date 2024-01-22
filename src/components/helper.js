@@ -1,0 +1,1 @@
+export const BASE_URL = "https://mern-app-backend-o1ed.onrender.com";
